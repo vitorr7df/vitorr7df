@@ -22,5 +22,6 @@
  
 </div><br/>
 
-Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Inovação e Tecnologia SENAC DF, 2° Semestre. Busco vagas de estágio/treinee ou júnior na area de programação.
-Tenho graduação em Comunicação Social - Publicidade e Propaganda e experiência de 10 anos como fotógrafo e diagramador. 
+Desenvolvimento de Frontend em ReactJS, criação do Backend em Golang, provisionamento de infraestrutura na nuvem como código com Terraform, gerenciamento de recursos AWS (DynamoDB, SQS, SNS, Secrets, EKS, IAM). Aplicação de Arquitetura Limpa e conceitos SOLID no desenvolvimento dos serviços, aplicação de conceitos SRE & DevOps nos projetos e na vivência dentro da empresa. 
+
+Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Inovação e Tecnologia SENAC DF, 3° Semestre. Tenho graduação em Comunicação Social - Publicidade e Propaganda.
