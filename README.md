@@ -33,6 +33,6 @@
  
 </div><br/>
 
-Desenvolvimento de Frontend em VueJS, criação do Backend em TypeScript e Golang, provisionamento de infraestrutura na nuvem como código com Terraform, gerenciamento de recursos AWS (DynamoDB, SQS, SNS, Secrets, EKS, IAM). Aplicação de Arquitetura Limpa e conceitos SOLID no desenvolvimento dos serviços, aplicação de conceitos SRE & DevOps nos projetos e na vivência dentro da empresa. 
+Desenvolvimento de Frontend em VueJS, JQuery, criação do Backend em NodeJs, PHP e TypeScript. Aplicação de Arquitetura Limpa e conceitos SOLID no desenvolvimento dos serviços, aplicação de conceitos SRE & DevOps nos projetos e na vivência dentro da empresa. Também possuo conhecimentos em Golang e SQL.
 
 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Inovação e Tecnologia SENAC DF, 4° Semestre. Tenho graduação em Comunicação Social - Publicidade e Propaganda.
