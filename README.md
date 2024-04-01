@@ -1,4 +1,4 @@
-## Olá, eu sou o Vitor Ramos, Desenvolvedor de Software 👋👾 
+## Hi, I'm Vitor Ramos, Software Developer 👋👾 
 
 
 
@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorr7df&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia a dia
+## Technologies that I use in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -33,6 +33,6 @@
  
 </div><br/>
 
-Desenvolvimento de Frontend em VueJS, JQuery, criação do Backend em NodeJs, PHP e TypeScript. Aplicação de Arquitetura Limpa e conceitos SOLID no desenvolvimento dos serviços, aplicação de conceitos SRE & DevOps nos projetos e na vivência dentro da empresa. Também possuo conhecimentos em Golang e SQL.
+Frontend development in VueJS, JQuery, backend creation in NodeJs, PHP, and TypeScript. Application of Clean Architecture and SOLID principles in service development, implementation of SRE & DevOps concepts in projects and within the company. I also have knowledge in Golang and SQL. Venturing into AI and its LLM models :)
 
-Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Inovação e Tecnologia SENAC DF, 4° Semestre. Tenho graduação em Comunicação Social - Publicidade e Propaganda.
+Currently pursuing a degree in Systems Analysis and Development at the SENAC DF College of Innovation and Technology, 4th Semester. I have a degree in Social Communication - Advertising and Propaganda.
