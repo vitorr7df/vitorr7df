@@ -33,4 +33,6 @@
 
 Frontend development in VueJS, JQuery, backend creation in NodeJs, PHP, and TypeScript. Application of Clean Architecture and SOLID principles in service development, implementation of SRE & DevOps concepts in projects and within the company. I also have knowledge in Golang and SQL. Venturing into AI and its LLM models :)
 
-Currently pursuing a degree in Systems Analysis and Development at the SENAC DF College of Innovation and Technology, 4th Semester. I have a degree in Social Communication - Advertising and Propaganda.
+I recently completed my degree in Systems Analysis and Development at the Faculty of Innovation and Technology SENAC DF. Additionally, I hold a degree in Social Communication - Advertising and Marketing, which complements my technical expertise with a strategic and creative approach.
+
+My goal is to leverage my experience and ideas to develop innovative and challenging projects that automate functionalities, increase operational efficiency, and drive financial results for businesses.
