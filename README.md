@@ -28,9 +28,14 @@
   
  
 </div><br/>
+I'm a Full Stack Developer with experience in e-commerce and enterprise systems projects, working across the entire development cycle: analysis, architecture, implementation, and maintenance.
 
-Frontend development in VueJS, JQuery, backend creation in NodeJs, PHP, and TypeScript. Application of Clean Architecture and SOLID principles in service development, implementation of SRE & DevOps concepts in projects and within the company. I also have knowledge in Golang and SQL. Venturing into AI and its LLM models :)
+I deliver scalable, secure, and high-performance solutions, always aligned with clean architecture, SOLID, SRE, and DevOps best practices. I have experience in legacy system migration, platform modernization, and process automation, generating real efficiency gains for the business.
 
-I recently completed my degree in Systems Analysis and Development at the Faculty of Innovation and Technology SENAC DF. Additionally, I hold a degree in Social Communication - Advertising and Marketing, which complements my technical expertise with a strategic and creative approach.
+⚡ Main Stack:
 
-My goal is to leverage my experience and ideas to develop innovative and challenging projects that automate functionalities, increase operational efficiency, and drive financial results for businesses.
+Front-end: React (MUI), Vue.js, TypeScript, JavaScript
+Back-end: Node.js (Express), PHP, Go
+Database: MySQL, Firebird, PostgreSQL, mongoDB
+Infrastructure: AWS (EC2, Lambda, Aurora, S3), Nginx, Linux, Docker, Git
+Practices: automated testing, CI/CD, agile methodologies
